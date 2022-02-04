@@ -41,6 +41,7 @@ changeto = direction
 
 score = 0
 
+#Starting a new section of the game
 #Game over function
 def gameOver():
     myFont = pygame.font.SysFont('arial',72)
